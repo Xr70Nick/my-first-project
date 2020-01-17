@@ -15,6 +15,7 @@ public class FirstProgram {
 		System.out.println(x / 0.001);
 		System.out.println(y / u);
 		System.out.println(x % u);
+		System.out.println("Hello my name is Nick Schuster");
 	}
 
 }
